@@ -2,7 +2,7 @@
 layout: default
 title: Devo renovation
 ---
-The [Devotion School Building Committee][committee] advises the town of Brookline on the project and has made available a [June 26, 2012 concept study](http://www.brooklinema.gov/index.php?option=com_docman&task=doc_download&gid=6759&Itemid=1639).
+The [Devotion School Building Committee][committee] advises the town of Brookline on the project and has made available a [June 26, 2012 concept study](http://www.brooklinema.gov/index.php?option=com_docman&task=doc_download&gid=6759&Itemid=1639) on their [reports](http://www.brooklinema.gov/index.php?option=com_docman&Itemid=1639) page.
 
 Here are some options from that PDF:
 
