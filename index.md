@@ -6,6 +6,8 @@ The official website for the Edward Devotion School ("Devo") is http://www.devot
 
 This site features information about "Extended Day", which is technically known as the Devotion Primary Extended Day Program (DPEDP): http://coolcorn.github.com/devo/extended-day
 
+It also covers the upcoming [renovation](renovation) of the school building.
+
 The "source" of this site can be seen at https://github.com/coolcorn/devo and a list of recent changes is available at https://github.com/coolcorn/devo/commits/gh-pages
 
 [town-site]: http://www.brookline.k12.ma.us/index.php?option=com_content&view=article&id=113&Itemid=155
