@@ -4,7 +4,7 @@
 based on http://stackoverflow.com/questions/9612235/what-are-some-good-ways-to-implement-breadcrumbs-on-a-jekyll-site/9633517#9633517
 {% endcomment %}
 
-{% capture url_parts %}{{ page.url | remove: "/index.html" | replace: '/', " " }}{% endcapture %}
+{% capture url_parts %}{{ page.url | remove: "/index.html" | replace: '/', " " | prepend: "devo" }}{% endcapture %}
 {% capture num_levels_deep %}{{ url_parts | number_of_words | minus: 1 }}{% endcapture %}
 {% capture remaining_parts %}{{ url_parts }}{% endcapture %}
 {% assign growing_path="" %}
