@@ -10,6 +10,12 @@ It also covers the upcoming [renovation](renovation) of the school building.
 
 Other topics will be added, no doubt.  A list of [recent changes][] is available.
 
+<ul class="posts">
+{% for post in site.posts %}
+<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
 [town-site]: http://www.brookline.k12.ma.us/index.php?option=com_content&view=article&id=113&Itemid=155
 
 [recent changes]: https://github.com/coolcorn/devo/commits/gh-pages
