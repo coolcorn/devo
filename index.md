@@ -2,7 +2,7 @@
 layout: default
 title: Devo
 ---
-The official website for the Edward Devotion School ("Devo") is http://devotionschool.org and there is [a website for Devo maintained by the Town of Brookline][town-site] and even a page on [Wikipedia](http://en.wikipedia.org/wiki/Edward_Devotion_School), but this "devo" area of http://coolcorn.github.com is made by a parent of a Devo student.
+The official website for the Edward Devotion School ("Devo") is http://devotionschool.org and there is [a website for Devo maintained by the Town of Brookline][town-site] and even a page on [Wikipedia](http://en.wikipedia.org/wiki/Edward_Devotion_School), but this "devo" area of http://coolcorn.github.com is made by [a parent of a Devo student](http://thedurbins.com/phil).
 
 This site features information about [Extended Day](extended-day), which is technically known as the Devotion Primary Extended Day Program (DPEDP).
 
