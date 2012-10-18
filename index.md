@@ -11,7 +11,7 @@ It also covers the upcoming [renovation](renovation) of the school building.
 Other topics will be added, no doubt.  A list of [recent changes][] is available.
 
 <ul class="posts">
-{% for post in site.posts %}
+{% for post in site.posts reversed %}
 <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
