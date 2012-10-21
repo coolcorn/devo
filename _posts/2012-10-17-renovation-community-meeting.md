@@ -2,7 +2,7 @@
 layout: default
 title: Devo renovation community meeting for 2012-10-17
 ---
-See also the http://coolcorn.github.com/devo/renovation
+See also http://coolcorn.github.com/devo/renovation
 
 ## Introduction
 
