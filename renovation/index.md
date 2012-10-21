@@ -2,27 +2,29 @@
 layout: default
 title: Devo renovation
 ---
-**Please note: the images below are from June but a newer concept study was released in October, as mentioned at http://coolcorn.github.com/devo/2012/10/17/renovation-community-meeting **  
+The [Devotion School Building Committee][committee] advises the town of Brookline on the project and has made available a [October 17, 2012 concept study][pdf] on their [reports](http://www.brooklinema.gov/index.php?option=com_docman&Itemid=1639) page. This version supercedes the [June 26, 2012 version](concept-study-2012-06-26)
 
-The [Devotion School Building Committee][committee] advises the town of Brookline on the project and has made available a [June 26, 2012 concept study](http://www.brooklinema.gov/index.php?option=com_docman&task=doc_download&gid=6759&Itemid=1639) on their [reports](http://www.brooklinema.gov/index.php?option=com_docman&Itemid=1639) page.
+Here are some options from the PDF that were presented at the [Devo renovation community meeting on 2012-10-17](http://coolcorn.github.com/devo/2012/10/17/renovation-community-meeting/):
 
-Here are some options from that PDF:
-
-<img src='../images/devo-concept-2012-06-26-existing.gif'</img>
-<img src='../images/devo-concept-2012-06-26-option-a.gif'</img>
-<img src='../images/devo-concept-2012-06-26-option-b.gif'</img>
-<img src='../images/devo-concept-2012-06-26-option-c.gif'</img>
-<img src='../images/devo-concept-2012-06-26-option-d.gif'</img>
-<img src='../images/devo-concept-2012-06-26-option-d1.gif'</img>
-<img src='../images/devo-concept-2012-06-26-option-d2.gif'</img>
-<img src='../images/devo-concept-2012-06-26-option-e.gif'</img>
-<img src='../images/devo-concept-2012-06-26-option-e1.gif'</img>
+<img src='../images/devo-concept-2012-10-17-existing.gif'>
+<img src='../images/devo-concept-2012-10-17-option-a.gif'>
+<img src='../images/devo-concept-2012-10-17-option-b.gif'>
+<img src='../images/devo-concept-2012-10-17-option-b1.gif'>
+<img src='../images/devo-concept-2012-10-17-option-c.gif'>
+<img src='../images/devo-concept-2012-10-17-option-c1.gif'>
+<img src='../images/devo-concept-2012-10-17-option-d.gif'>
+<img src='../images/devo-concept-2012-10-17-option-d1.gif'>
+<img src='../images/devo-concept-2012-10-17-option-e.gif'>
+<img src='../images/devo-concept-2012-10-17-option-e1.gif'>
+<img src='../images/devo-concept-2012-10-17-option-f.gif'>
+<img src='../images/devo-concept-2012-10-17-option-f1.gif'>
 
 Notes to self:
 
-    for i in a b c d d1 d2 e e1; do touch /tmp/devo/devo-concept-2012-06-26-option-$i.gif; done
-    for i in 1 10 16 22 28 34 41 48 55; do convert -scale '840x600' "Devotion_School_Boards_30x42_2012_0626.pdf[$i]" out-$i.gif;done
+    for i in a b b1 c c1 d d1 e e1 f f1; do touch /tmp/devo/devo-concept-2012-10-17-option-$i.gif; done
+    for i in 1 8 11 13 16 19 22 25 28 31 34 37 ; do convert -scale '840x600' "Brookline-Public-Meeting-10.17.2012.pdf[$i]" out-$i.gif;done
 
 Then mv the images into place.
 
 [committee]: http://www.brooklinema.gov/index.php?option=com_content&view=article&id=1396&Itemid=1636
+[pdf]: http://www.brooklinema.gov/index.php?option=com_docman&task=doc_download&gid=7002&Itemid=1639
