@@ -8,6 +8,8 @@ This site features information about [Extended Day](extended-day), which is tech
 
 It also covers the upcoming [renovation](renovation) of the school building.
 
+I think it would be nice to have a way for parents to easily communicate with each other online and toward this end I'm experimenting with a Q&A (question and answer) system at https://devo.shapado.com . That site is currently riddled with advertising because I'm not paying for it but even if I do start paying a monthly fee, I'll want to back up the data (in case the site ever goes away), so I've started doing so on a [questions](questions) page.
+
 Other topics will be added, no doubt.  A list of [recent changes][] is available.
 
 <ul class="posts">
