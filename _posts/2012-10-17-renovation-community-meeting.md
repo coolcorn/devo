@@ -2,6 +2,8 @@
 layout: default
 title: Devo renovation community meeting for 2012-10-17
 ---
+See also the http://coolcorn.github.com/devo/renovation
+
 ## Introduction
 
 Bill Lupini is planning for a 4.5 section school and starting in 2014. Nothing is final.
