@@ -1,3 +1,7 @@
+---
+layout: default
+title: Devo renovation community meeting for 2013-10-08
+---
 - project ends in 2018
 - schools don't have space, working on transition plan (plan will be ready by end of December 2013)
 - November 20: school building authority needs to approve the number (5 section per grade level) of 1000 students
