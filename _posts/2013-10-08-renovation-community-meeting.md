@@ -1,0 +1,20 @@
+- project ends in 2018
+- schools don't have space, working on transition plan (plan will be ready by end of December 2013)
+- November 20: school building authority needs to approve the number (5 section per grade level) of 1000 students
+- board will be formed including parents
+- then feasiblity study (June 2014), then schematic design
+- build in place (no space to move kids), kids will move in January and October 2018
+- construction starts December 2015
+- high school finished by 2021 (long term plan from school committee)
+- HMFH Architects ( http://www.hmfh.com ) has been selected
+- favoring designs that preserve the historic part of Devotion
+- obligation to revise operating budget to account for more staff
+- trend of pre-K moving out of Brookline schools
+- mention of "Understanding Brookline" report: http://brooklinecommunity.org/understanding-brookline
+- Driscoll project going on as well, smaller, also finishes in 2018
+- 469 8th graders vs 630 kindergarteners
+- override study website
+- renovation page on devotion website
+- Devotion Building Committee: Pam Roberts, Abby Cox
+- could be a town vote (on some issues) as early as May 2014
+- maybe 18% of Brookline households have kids in the schools
